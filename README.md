@@ -424,6 +424,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
+- [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
 > **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
