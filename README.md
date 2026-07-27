@@ -603,6 +603,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [postiz](https://clawskills.sh/skills/nevo-david-postiz) - Schedule social media posts and threads across 28+ platforms.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
 - [tempguru-event-staffing-ordering](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering) - Order W-2 temporary event staff across 345 US/Canada markets.
+- [posteahora](https://clawhub.ai/sashadiz/posteahora) - Schedule and publish social posts across every major network.
 > **[View all 106 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
