@@ -15,7 +15,7 @@
 </div>
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5199-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5200-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -201,15 +201,15 @@ If you believe a skill in this list should be flagged or has a security concern,
 | | | |
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (106) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (46) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (46) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
-| [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
+| [Search & Research](#search--research) (342) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (52) | [Gaming](#gaming) (35) |
+| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (53) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
@@ -296,6 +296,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [before-you-build](https://clawhub.ai/bin1874/before-you-build) - Review product risk before building.
 - [ditto-profile](https://clawhub.ai/ohad6k/ditto-profile) - Load your mined personal profile so agents work like you.
 - [skill-navigator](https://clawhub.ai/grubbylee/skills/skill-navigator) - Recommends the right installed local Agent Skill.
+- [emulo](https://clawhub.ai/ohad6k/emulo) - Load your mined personal profile so agents work like you.
 
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
@@ -436,6 +437,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
+- [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
 > **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
@@ -510,8 +512,10 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
 - [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
 - [skywork-search](https://clawskills.sh/skills/gxcun17-skywork-search) - AI-powered web search for real-time information — retrieve up-to-date content.
+- [tavily](https://clawhub.ai/bert-builder/tavily) - AI-optimized web search using Tavily Search API.
+- [newsflash](https://clawhub.ai/zatmonkey/newsflash) - Corroborated real-time news briefings and alerts for agents.
 
-> **[View all 352 skills in Search & Research →](categories/search-and-research.md)**
+> **[View all 342 skills in Search & Research →](categories/search-and-research.md)**
 </details>
 
 <details>
@@ -615,6 +619,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [postiz](https://clawskills.sh/skills/nevo-david-postiz) - Schedule social media posts and threads across 28+ platforms.
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
 - [tempguru-event-staffing-ordering](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering) - Order W-2 temporary event staff across 345 US/Canada markets.
+- [posteahora](https://clawhub.ai/sashadiz/posteahora) - Schedule and publish social posts across every major network.
 > **[View all 106 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
@@ -649,8 +654,9 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [async-task](https://clawskills.sh/skills/enderfga-async-task) - Execute long-running tasks without HTTP timeouts.
 - [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - Run the Model Context Protocol (MCP) Atlassian server.
 - [boss-ai-agent](https://clawskills.sh/skills/tonypk-boss-ai-agent) - AI management middleware with 14 mentors and 9 culture packs.
+- [FlowBoard](https://clawhub.ai/rasimme/plugins/flowboard) - Persistent per-project context and Kanban for agents.
 
-> **[View all 206 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 207 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
 
 </details>
 
@@ -881,10 +887,11 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [english-learn-cards](https://clawskills.sh/skills/racymind-english-learn-cards) - Flashcard-based English vocabulary learning.
 - [expanso-cve-scan](https://clawskills.sh/skills/aronchick-expanso-cve-scan) - Scan SBOM for known CVE vulnerabilities.
 - [ezbookkeeping](https://clawskills.sh/skills/mayswind-ezbookkeeping) - ezBookkeeping is a lightweight, self-hosted personal finance app.
+- [first-principles](https://clawhub.ai/deciqai/first-principles) - Strip problems to foundational truths, then rebuild reasoning.
 - [fix-life-in-1-day](https://clawskills.sh/skills/evgyur-fix-life-in-1-day) - Fix your entire life in 1 day.
 - [founder-coach](https://clawskills.sh/skills/goforu-founder-coach) - AI-powered startup mindset coach that helps founders upgrade.
 
-> **[View all 52 skills in Personal Development →](categories/personal-development.md)**
+> **[View all 53 skills in Personal Development →](categories/personal-development.md)**
 </details>
 
 <details>
