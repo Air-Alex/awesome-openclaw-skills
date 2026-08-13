@@ -430,6 +430,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
 - [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
+- [riffkit](https://clawhub.ai/riffkit/riffkit) - Riff a winning TikTok into your own product video.
 > **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
