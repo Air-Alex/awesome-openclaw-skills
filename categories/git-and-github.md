@@ -159,3 +159,4 @@
 - [xpr-structured-data](https://clawskills.sh/skills/paulgnz-xpr-structured-data) - CSV parsing, JSON-to-CSV conversion, and SVG chart generation.
 - [zai-tts](https://clawskills.sh/skills/al-one-zai-tts) - Text-to-speech conversion using GLM-TTS service via the `uvx zai-tts` command for generating audio from text.
 - [zhipu-tts](https://clawskills.sh/skills/franklu0819-lang-zhipu-tts) - Text-to-speech conversion using Zhipu AI (BigModel) GLM-TTS model.
+- [repo-standardizer](https://clawhub.ai/programmingwtf/repo-standardizer) - Polish any GitHub repo surface: labels, issue forms, PR templates, CI, rulesets, docs.
