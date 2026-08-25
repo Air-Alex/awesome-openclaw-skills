@@ -148,3 +148,4 @@
 - [lobstermail-agent-email](https://clawskills.sh/skills/samuelchenardlovesboards-lobstermail-agent-email) - Email for AI agents. No API keys, no signup.
 - [sol-email](https://clawhub.ai/amrree/sol-email) - Read and send emails via himalaya (Maildir) and SMTP. Real inbox, real replies.
 - [atomicmail](https://clawhub.ai/atomicmail/atomicmail) - Agent-owned @atomicmail.ai inbox over JMAP. PoW signup, no API keys.
+- [ai-calls-china-phone](https://clawhub.ai/ustczz/skills/ai-calls-china-phone) - AI phone calls and inbound reception for mainland China.
