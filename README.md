@@ -94,7 +94,7 @@ AI agents are only as good as the web data they can reach. Crawling at scale mea
 
 <a href="https://s.getdesign.md/crawl-og">
 <img src="https://cdn.voltagent.dev/awesome-repo/crawlbase/crawlbase-sponsor-banner-560x120.png" alt="Crawlbase" width="560" /><br/>
-Trusted by 70,000+ developers: one API to crawl any URL at scale, with JS rendering, proxy rotation and anti-bot handling. Its MCP server gives agents live web access: crawl, crawl_markdown, crawl_screenshot.
+Crawlbase is web data infrastructure trusted by 70,000+ developers: one API to crawl any URL at scale, with JS rendering, proxy rotation and anti-bot handling. Its MCP server gives agents live web access: crawl, crawl_markdown, crawl_screenshot.
 </a>
 
 
