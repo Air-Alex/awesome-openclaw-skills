@@ -93,8 +93,8 @@ Include the ClawHub link for your skill (e.g. `https://clawhub.ai/steipete/slack
 AI agents are only as good as the web data they can reach. Crawling at scale means dealing with JavaScript-heavy pages, rotating proxies, and anti-bot systems — you can build all that yourself, or use an API that handles it and hands your agent clean, ready-to-use data.
 
 <a href="https://s.getdesign.md/crawl-og">
-<img src="https://cdn.voltagent.dev/awesome-repo/crawlbase/crawlbase-sponsor-banner-1120x240%402x.png" alt="Crawlbase" /><br/>
-Crawlbase is web data infrastructure trusted by 70,000+ developers: one API to crawl any URL at scale, with JavaScript rendering, smart proxy rotation and anti-bot handling built in. Its MCP server gives AI agents live web access as ready-to-use tools: crawl, crawl_markdown and crawl_screenshot.
+<img src="https://cdn.voltagent.dev/awesome-repo/crawlbase/crawlbase-sponsor-banner-560x120.png" alt="Crawlbase" width="560" /><br/>
+Trusted by 70,000+ developers: one API to crawl any URL at scale, with JS rendering, proxy rotation and anti-bot handling. Its MCP server gives agents live web access: crawl, crawl_markdown, crawl_screenshot.
 </a>
 
 
