@@ -117,18 +117,6 @@ Give OpenClaw agents access to real-time Google Search, YouTube, Amazon Product,
 </a>
 
 
-### 🛡️ Security & Config Auditing
-
-As you add more skills, custom code, and connected services, your OpenClaw setup accumulates secrets, file access, and tool permissions that are easy to lose track of. You can review these by hand, or run a continuous audit that surfaces misconfigurations and over-broad permissions before they become a problem.
-
-<a href="https://trent.ai/openclaw/?utm_source=github&utm_medium=referral&utm_campaign=volt-agent">
-<img src="https://cdn.voltagent.dev/awesome-repo/trentclaw-banner.png" alt="trentclaw"  /><br/>
-trentclaw: audits your OpenClaw config, installed skills and custom code, then returns fixes as diffs. Install with: openclaw skills install trentclaw
-</a>
-
-</br>
-</br>
-
 <div align="center">
 
 <table>
@@ -188,29 +176,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
-
-<br/>
-
-You ship products with AI, but every launch still dies quietly because nobody posts about it. [EveryFeed](https://everyfeed.ai/) plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels — no agency, no marketing hire.
-
-<a href="https://everyfeed.ai/">
-<img src="https://cdn.voltagent.dev/awesome-repo/everyfeed-social.png" alt="everyfeed"  /><br/>
-</a>
-
-<br/>
-
-
-
-<a href="https://launchkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
-</a>
-
-<br/>
-
-
-<a href="https://mobile-starterkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/mobile-starter-kit-banner-light-450ba0a9b0.png" alt="mobilekit"  /><br/>
-</a>
 
 <br/>
 
@@ -317,6 +282,29 @@ You ship products with AI, but every launch still dies quietly because nobody po
 
 > **[View all 323 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
+
+You ship products with AI, but every launch still dies quietly because nobody posts about it. [EveryFeed](https://everyfeed.ai/) plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels — no agency, no marketing hire.
+
+<a href="https://everyfeed.ai/">
+<img src="https://cdn.voltagent.dev/awesome-repo/everyfeed-social.png" alt="everyfeed"  /><br/>
+</a>
+
+<br/>
+
+<a href="https://launchkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
+</a>
+
+<br/>
+
+
+<a href="https://mobile-starterkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/mobile-starter-kit-banner-light-450ba0a9b0.png" alt="mobilekit"  /><br/>
+</a>
+
+<br/>
+
+
 
 <details>
 <summary><h3 style="display:inline">Web & Frontend Development</h3></summary>
